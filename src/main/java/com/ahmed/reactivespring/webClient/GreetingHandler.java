@@ -1,4 +1,4 @@
-package com.ahmed.reactivespring;
+package com.ahmed.reactivespring.webClient;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
